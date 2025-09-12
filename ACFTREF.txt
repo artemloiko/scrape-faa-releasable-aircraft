@@ -54817,6 +54817,7 @@
 05643DT,RONALD PAUL SHADWICK          ,HAAST EAGLE         ,4,7 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643DU,KENNETH R ROGERS              ,KEN TECH KT2        ,4,1 ,1,1,01,003,CLASS 1,0000,               ,                                                  ,
 05643DV,ROBERT WILLIAM CARR           ,AVID FLYER COMMUTER ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643DW,WEAVER NEIL                   ,PA-18-150           ,4,1 ,3,1,01,002,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
