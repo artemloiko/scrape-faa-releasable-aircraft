@@ -54799,6 +54799,8 @@
 05643D1,RANDY SCHLITTER               ,RANS S-21 OUTBOUND  ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643D2,SETH ROGERS                   ,S21                 ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643D3,STEPHEN TREIBS                ,REV X               ,7,7 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
+05643D4,MARK BARBER                   ,AIRCAM              ,5,8 ,1,1,02,002,CLASS 1,0000,               ,                                                  ,
+05643D5,WAYLON D OWENS                ,VANS RV-8           ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643DA,DAVID M DERIGNE               ,162                 ,6,2 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643DB,WAYNE C GERSZEWSKI            ,HATZ BANTAM         ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643DC,DENNIS VEGH                   ,S-21 OUTBOUND       ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
