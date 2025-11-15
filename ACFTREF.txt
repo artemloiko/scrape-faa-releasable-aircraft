@@ -54978,6 +54978,7 @@
 05643HZ,DONNELLY DAVID P              ,VANS RV 14A         ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643I0,CHRISTOPHER P CUMMINGS        ,BEARHAWK FIVE       ,4,1 ,1,1,01,006,CLASS 1,0000,               ,                                                  ,
 05643I1,PAUL BAROSSO                  ,162F ROTORWAY       ,6,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643I2,MICHAEL KENNEDY               ,ARGON 915           ,9,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643IA,NEIL J AXEL                   ,LOCKWOOD AIR CAM    ,5,1 ,1,1,02,003,CLASS 1,0000,               ,                                                  ,
 05643IB,GEORGE C GARDNER              ,KITFOX II           ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643IC,JASON JAMES CONLIN            ,RV-7A               ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
