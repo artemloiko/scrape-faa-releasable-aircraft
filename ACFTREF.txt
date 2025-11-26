@@ -55018,6 +55018,7 @@
 05643JD,R E BUCHANAN                  ,SLING HW            ,4,8 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
 05643JE,GARY R CUNNINGHAM II          ,M24 PLUS            ,9,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643JF,PETER-JONATHAN CHRISTIAN MOORE,KITFOX 7 STI        ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643JG,MORAVAN-AEROPLANES INC        ,Z400                ,4,1 ,1,1,01,007,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
