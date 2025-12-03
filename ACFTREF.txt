@@ -55021,6 +55021,7 @@
 05643JG,MORAVAN-AEROPLANES INC        ,Z400                ,4,1 ,1,1,01,007,CLASS 1,0000,               ,                                                  ,
 05643JH,JOHNSON SCOTT E               ,RV-7A               ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643JI,ALEX MUNRO                    ,VK5                 ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643JJ,JONATHAN K JAMES PHD          ,GLASAIR SPORTSMAN2+2,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
