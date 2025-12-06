@@ -55025,6 +55025,8 @@
 05643JK,VIRGIN GALACTIC LLC           ,SS4                 ,1,0 ,1,1,00,008,CLASS 1,0000,               ,                                                  ,
 05643JL,MICHAEL WEATHERL              ,LANCAIR             ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643JM,BARROWS ROBERT E              ,BEARHAWK COMPANION  ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643JN,CLARK JOSEPH C                ,VANS RV-10          ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
+05643JO,BURNS RICHARD E               ,VANS RV-14A         ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
