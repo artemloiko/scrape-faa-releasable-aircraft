@@ -55015,6 +55015,7 @@
 05643J0,THEODORE P LEHMANN            ,PIETENPOL AIRCAMPER ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643J1,KREBS LEO J                   ,CH 750 CRUZER       ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643J2,BICKERS KENNETH N             ,VANS RV9            ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643J3,ANDERSON SCOTT J              ,RV-9A               ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643JA,OTTEM STEVEN                  ,SAMSON              ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643JB,JOHN KREGER                   ,KITFOX S7 STI       ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643JC,SIDNEY NOLAN NELSON           ,SPEEDSTER           ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
