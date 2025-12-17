@@ -55020,6 +55020,7 @@
 05643J5,LUIS FERNANDO SAAD            ,RV10                ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
 05643J6,FERREE JOSHUA H D             ,BREESE 2            ,4,7 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643J7,JAMIE HART                    ,QUICKSILVER SPORT 2S,4,7 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643J8,ROGERS JOHN K                 ,VANS RV-9A          ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643JA,OTTEM STEVEN                  ,SAMSON              ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643JB,JOHN KREGER                   ,KITFOX S7 STI       ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643JC,SIDNEY NOLAN NELSON           ,SPEEDSTER           ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
