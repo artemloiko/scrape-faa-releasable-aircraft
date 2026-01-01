@@ -72470,6 +72470,7 @@
 06102MB,HOOD TECH CORP MECHANICAL INC ,HTMC-0040           ,6,10,1,1,08,000,CLASS 1,0000,               ,                                                  ,
 06102MC,HANGZHOU ZT MODEL CO LTD      ,GLOBAL HAWK SEAPLANE,4,10,3,1,01,000,CLASS 4,0000,               ,                                                  ,
 06102MD,GTEEX REVOLUTION              ,INDEPENDENCE 19     ,6,10,1,1,04,000,CLASS 1,0000,               ,                                                  ,
+06102ME,DELTA BLACK AEROSPACE INC     ,RAIDER 330          ,H,10,1,1,04,000,CLASS 1,0000,               ,                                                  ,
 0620102,AMERICAN AIRPLANE & ENGINE    ,PILGRIM 100A        ,4,1 ,1,0,01,010,CLASS 1,0097,               ,                                                  ,
 0620104,AMERICAN AIRPLANE & ENGINE    ,PILGRIM 100B        ,4,1 ,1,0,01,010,CLASS 1,0097,               ,                                                  ,
 0620302,AMERICAN AIRPLANE & ENGINE    ,PILGRIM FC-2        ,4,1 ,1,0,01,005,CLASS 1,0119,               ,                                                  ,
