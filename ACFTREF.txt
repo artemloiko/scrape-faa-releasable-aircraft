@@ -72523,6 +72523,7 @@
 06102MK,GENERAL ATOMICS AERO SYSTEMS  ,UBC97000-21         ,4,2 ,1,1,01,000,CLASS 1,0000,               ,                                                  ,
 06102ML,ABZ INNOVATION KFT            ,ABZ INNOVAT L30-V2  ,6,10,1,1,04,000,CLASS 1,0000,               ,                                                  ,
 06102MM,XAG                           ,P150 MAX            ,6,10,1,1,04,000,CLASS 1,0000,               ,                                                  ,
+06102MN,ANDURIL INDUSTRIES INC        ,MAGNUM              ,6,3 ,1,1,01,000,CLASS 1,0000,               ,                                                  ,
 0620102,AMERICAN AIRPLANE & ENGINE    ,PILGRIM 100A        ,4,1 ,1,0,01,010,CLASS 1,0097,               ,                                                  ,
 0620104,AMERICAN AIRPLANE & ENGINE    ,PILGRIM 100B        ,4,1 ,1,0,01,010,CLASS 1,0097,               ,                                                  ,
 0620302,AMERICAN AIRPLANE & ENGINE    ,PILGRIM FC-2        ,4,1 ,1,0,01,005,CLASS 1,0119,               ,                                                  ,
