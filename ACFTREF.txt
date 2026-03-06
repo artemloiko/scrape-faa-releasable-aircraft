@@ -55175,6 +55175,8 @@
 05643NR,SCOTT FOTH                    ,ELA ECLIPSE-10 EVO  ,9,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643NS,D HOLLIDAY                    ,PA-14 REPLICA       ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
 05643NT,ALAN ROLLAND CHAMPAGNE        ,SUPER REBEL         ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
+05643NU,CJB PROPERTIES INC            ,KITFOX S7 STI       ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643NV,THOMAS A DUBROUILLET          ,RV14A               ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
