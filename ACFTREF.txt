@@ -55178,6 +55178,7 @@
 05643NU,CJB PROPERTIES INC            ,KITFOX S7 STI       ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643NV,THOMAS A DUBROUILLET          ,RV14A               ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643NW,51 HERITAGE LLC               ,SW-51               ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643NX,DESERT AVIATORS LLC           ,BEARHAWK FIVE       ,4,1 ,1,1,01,006,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
