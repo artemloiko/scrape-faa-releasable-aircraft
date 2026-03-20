@@ -55201,6 +55201,8 @@
 05643OI,BONIM BALOES E INFLAVEIS LTDA ,SS-25-FX            ,2,0 ,1,1,00,001,CLASS 1,0000,               ,                                                  ,
 05643OJ,MICHAEL BERT                  ,CCX-1865            ,4,1 ,3,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643OK,OLD CROW LLC                  ,CCX-1865            ,4,1 ,3,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643OL,RICHARD NEIL DICKINSON JR     ,BEARHAWK            ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
+05643OM,RICHARD NEIL DICKINSON JR     ,BEARHAWK            ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
