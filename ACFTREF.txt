@@ -55209,6 +55209,7 @@
 05643OQ,GLENN JAGNEAUX SR             ,RAGWING RW-8        ,4,8 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
 05643OR,BILLY BILLY BALLOONS          ,BB-77               ,2,0 ,1,1,00,001,CLASS 1,0000,               ,                                                  ,
 05643OS,GREEN AVIATION LLC            ,RV-10               ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
+05643OT,WEST DESERT AVIATORS          ,RANS S-20 RAVEN     ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
