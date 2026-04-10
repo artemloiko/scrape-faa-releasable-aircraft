@@ -55249,6 +55249,8 @@
 05643PV,ERIC M WOHLWEND               ,AR-1                ,6,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643PW,BILL WESTLAND                 ,CCK-2000            ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643PX,RYAN L ALLEN                  ,VANS RV-10          ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
+05643PY,JEFFERY CLARK                 ,SLING TSI           ,4,8 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
+05643PZ,JEFFERY CLARK                 ,SLING TSI           ,4,8 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
