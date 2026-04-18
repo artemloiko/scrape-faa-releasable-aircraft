@@ -55275,6 +55275,7 @@
 05643QL,DEAN K HANSON                 ,RANS S-21 OUTBOUND  ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643QM,MOYER VALIANT J               ,RAF 2000            ,9,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643QN,CANFIELD MORGAN J             ,TSI                 ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
+05643QO,ELA AVIACION S L              ,ELA 07 COUGAR       ,6,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
