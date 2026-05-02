@@ -55300,6 +55300,8 @@
 05643RA,CALEB S BOGE                  ,RS-80 TIGER MOTH    ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643RB,MASSEY AIR MUSEUM INC         ,MD PIET             ,4,1 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
 05643RC,MARCUS WILLIAM GOUGH          ,RV14A               ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643RD,MATTHEW KRAFT                 ,CCK-2000            ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643RE,MATTHEW SNELL AND PAMLA SNELL ,M16 XTREME          ,9,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
