@@ -9673,7 +9673,7 @@
 056085G,KAYE DON G                    ,RV-3                ,4,1 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
 056085H,WILLIAMS LEO A                ,RV-4                ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 056085I,BEENE KENNETH E               ,BEENE RV6A          ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
-056085J,WALDORF MORRIS M              ,RV-4                ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+056085J,WALDROP MORRIS M              ,RV-4                ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 056085K,VAN GRUNSEN RICHARD           ,RV-4                ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 056085L,SAYLOR TRACY                  ,RV-4                ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 056085M,BERTRAND TERRY                ,RV3A                ,4,1 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
