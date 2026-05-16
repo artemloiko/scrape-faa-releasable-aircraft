@@ -55304,6 +55304,7 @@
 05643R4,PRO PILOT AVIATION            ,VOLATO 400          ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
 05643R5,DAN WELLS                     ,VANS RV-10          ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
 05643R6,MATTHEW LITTLE                ,STARDUSTER TOO SA300,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643R7,NORTH FORK LLC                ,BEAR HAWK PATROL    ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643RA,CALEB S BOGE                  ,RS-80 TIGER MOTH    ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643RB,MASSEY AIR MUSEUM INC         ,MD PIET             ,4,1 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
 05643RC,MARCUS WILLIAM GOUGH          ,RV14A               ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
