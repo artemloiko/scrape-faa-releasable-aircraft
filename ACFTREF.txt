@@ -55334,6 +55334,8 @@
 05643RY,SALVATORE O CAPRA             ,VANS RV6A           ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643RZ,KENNETH EACK                  ,WITTMAN TAILWIND W-8,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643SA,KYLE THOMAS FOLEY             ,S-21 OUTBOUND       ,4,1 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
+05643SB,NATHAN MCGUIRE                ,STOL CH 701         ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643SC,SNELLING MARK A               ,CH750 CRUZER        ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
