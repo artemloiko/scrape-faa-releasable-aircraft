@@ -55352,6 +55352,7 @@
 05643SQ,RUPPERT COMPOSITE GMBH        ,ARCHAEOPTERYX E     ,1,10,1,1,01,001,CLASS 1,0000,               ,                                                  ,
 05643SR,RUSSELL GOODWINE              ,GLASTAR             ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643SS,KARL STEWART                  ,GOAT                ,7,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643ST,MARCH DAVID                   ,KITFOX S7 STI       ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
