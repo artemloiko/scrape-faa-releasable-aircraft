@@ -55338,6 +55338,8 @@
 05643S2,BRADLEY LATHAM                ,CCK-2000            ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643S3,DYKSTRA DONALD W              ,VANS RV-9A          ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643S4,DEC JAMES T                   ,MERLIN PSA          ,4,8 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
+05643S5,HERMANN BRENT D               ,GENESIS             ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643S6,MABIS THOMAS J                ,ZENITH CH750 STOL   ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643SA,KYLE THOMAS FOLEY             ,S-21 OUTBOUND       ,4,1 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
 05643SB,NATHAN MCGUIRE                ,STOL CH 701         ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643SC,SNELLING MARK A               ,CH750 CRUZER        ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
