@@ -55373,6 +55373,7 @@
 05643TB,GARY B SWIFT                  ,GT-VX2              ,9,1 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
 05643TC,NEIL JOHN L SR                ,SE5A                ,4,1 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
 05643TD,MOENING MICHAEL D             ,S-20                ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643TE,DUPRE C GORVETT B GROVES D MIL,VANS RV-10          ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
