@@ -55410,6 +55410,7 @@
 05643UB,JAMES J WESTON                ,VANS RV-7           ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643UC,RICKY LI FO SJOE              ,SLING TSI           ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
 05643UD,WALLACE ANDERSON/ERIC NORDLUND,RV9A                ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643UE,MICHAEL V BEAN                ,SONEX               ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
