@@ -90457,6 +90457,7 @@
 8480104,STAR                          ,CAVALIER D          ,4,1 ,1,0,01,002,CLASS 1,0081,               ,                                                  ,
 8480106,STAR                          ,CAVALIER E          ,4,1 ,1,0,01,002,CLASS 1,0081,               ,                                                  ,
 8480110,STAR AIRCRAFT CORP            ,STAR CAVALIER       ,4,1 ,1,0,01,002,CLASS 1,0000,ATC 138        ,STAR AIRCRAFT CORP                                ,
+8481992,AIRBUS HELICOPTERS            ,H145D               ,6,3 ,1,1,02,014,CLASS 2,0000,               ,                                                  ,
 8490102,STARKFLUGZEUBAU K G           ,TURBULENT D.        ,4,1 ,1,0,01,001,CLASS 1,0112,               ,                                                  ,
 8500101,START & FLUG GMBH.            ,H101 "SALTO"        ,1,0 ,1,0,00,001,CLASS 1,0067,               ,                                                  ,
 8501001,DOKTOR FIBERGLAS              ,H101 SALTO          ,1,0 ,1,0,00,001,CLASS 1,0000,               ,                                                  ,
