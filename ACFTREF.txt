@@ -55478,6 +55478,8 @@
 05643VX,JOSEPH BUTLER                 ,STOL CUB            ,4,8 ,1,1,01,003,CLASS 1,0000,               ,                                                  ,
 05643VY,NICHOLAS A CAMPBELL           ,RV-9A               ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643VZ,DAVID TERHAAR                 ,CCK-2000            ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643WA,NOVAK KENNETH E               ,RV-7                ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643WB,ANSON MOXNESS                 ,PA-18 4 PLACE       ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
