@@ -55485,6 +55485,8 @@
 05643WE,55X LLC                       ,CCX-2000            ,4,1 ,3,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643WF,MAZEL WINGS LLC               ,CCX-1865            ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643WG,DAVIES KURT J                 ,MERLIN PSA          ,4,8 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
+05643WH,KEITH C NUSBAUM               ,RV-10               ,4,1 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
+05643WI,CHRISTOPHER L NICHOLS         ,RV-8 QUICK BUILD    ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
