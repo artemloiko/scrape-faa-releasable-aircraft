@@ -87373,6 +87373,7 @@
 70218DP,EXTRA FLUGZEUGPRODUKTIONS UND ,EXTRA 300/SCE       ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 70218DQ,EXTRA FLUGZEUGPRODUKTIONS-UND ,EA 300/LC           ,4,1 ,1,0,01,002,CLASS 1,0000,               ,                                                  ,
 70218DR,EXTRA FLUGZEUGPRODUKTIONS UND ,EA 300/SX           ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+70218DS,EXTRA FLUGZEUGPRODUKTIONS-UND ,EA300/L (EXTRA)     ,4,1 ,1,0,01,002,CLASS 1,0000,A67EU          ,EXTRA FLUGZEUGPRODUKTIONS-UND VERTRIEBS-GMBH      ,
 70218DZ,EXTRA FLUGZEUGBAU             ,EA 230              ,4,1 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
 70218EA,EXTRA FLUGZEUGBAU             ,EXTRA 230           ,4,1 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
 70218HB,PIEL EMERAUDE                 ,CP301               ,4,1 ,1,1,01,002,CLASS 1,0067,               ,                                                  ,
