@@ -55494,6 +55494,7 @@
 05643WN,SLING AIRCRAFT                ,SLING TSI           ,4,8 ,1,1,01,004,CLASS 1,0000,               ,                                                  ,
 05643WO,MICHAEL ROGERS                ,RISEN SV 916IS      ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643WP,AIR FLY BALLOONS LTDA         ,AF-SS-102           ,2,0 ,1,1,00,001,CLASS 1,0000,               ,                                                  ,
+05643WQ,MARK SCHILLER                 ,CH 750 CRUZER       ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
