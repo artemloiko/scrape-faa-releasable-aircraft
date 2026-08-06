@@ -55500,6 +55500,7 @@
 05643WT,FRANCOIS DUONG                ,2025 KEN BROCK KB-2 ,9,8 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
 05643WU,BRIDGER BLAIN                 ,CCX-1865            ,4,1 ,3,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643WV,AGA MOTORSPORTS INC           ,CCX-2300            ,4,1 ,3,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643WW,ALFRED BARNES                 ,HOTSHOT             ,2,0 ,1,1,00,001,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
