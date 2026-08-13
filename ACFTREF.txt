@@ -54187,7 +54187,7 @@
 05642M9,RUCCI TERRY L                 ,PANTHER             ,4,1 ,1,1,01,001,CLASS 1,0000,               ,                                                  ,
 05642MA,DARNALL ROBERT A              ,RV-14A              ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05642MB,GARY BOYCE                    ,VANS RV14A          ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
-05642MC,JARED L GARETSON              ,BADLANDS TRAVELER   ,4,1 ,1,1,01,003,CLASS 1,0000,               ,                                                  ,
+05642MC,JARED L GARETSON              ,BADLANDS TRAVELER   ,4,8 ,1,1,01,003,CLASS 1,0000,               ,                                                  ,
 05642MD,RUSSELL DYER                  ,RANS S21            ,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05642ME,RATHBURN ROBERT L             ,VANS RV-14A         ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05642MF,MICHAEL C EMICH               ,A-54-16             ,2,0 ,1,1,00,002,CLASS 1,0000,               ,                                                  ,
