@@ -55531,6 +55531,7 @@
 05643XO,DAVID WALLER                  ,PIETENPOL AIR CAMPER,4,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643XP,JAMES R MARTIN                ,GYRO 02             ,9,8 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 05643XQ,MOOSE CC LLC                  ,JA35 SUPERSTOL XL   ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
+05643XR,JERRY W FLETCHER              ,ZENITH 750 STOL     ,4,1 ,1,1,01,002,CLASS 1,0000,               ,                                                  ,
 0564401,HUFFMAN                       ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564402,CHAMBERS                      ,C1C                 ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
 0564403,BARNES                        ,MODEL-1             ,4,1 ,1,1,01,001,CLASS 1,0085,               ,                                                  ,
